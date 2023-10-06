@@ -1,0 +1,14 @@
+{
+    "name": "sitedigitaloficial/comunidad",
+    "description": "Site Digital S.A.S Comunidad Módulo para la gestión y administración de contenidos educativos y de interés especifico",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "SiteDigital",
+            "email": "desarrollo@sitedigital.com.co"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
